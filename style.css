@@ -1,0 +1,15 @@
+
+header {background: black; 
+    text-align: center;}
+
+header h1 {color: white;}
+
+.forecast {background-color: blue;
+color: white;
+margin:12px;
+text-align: center;
+height: auto;
+max-width: 25%;
+border: round;}
+
+.citylist {padding-left: 0px;}
