@@ -3,7 +3,7 @@ $(document).ready(function(){
     
     
     
-//when user enters a city and clicks search, display user city in jumbotron header
+//when user enters a city and clicks search, display user city in jumbotron header//
 $(".searchCityButton").on("click", function(){
     
 
